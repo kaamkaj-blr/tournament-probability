@@ -29,3 +29,5 @@
  1 ≤ X ≤ N
  Input:
  The first and only line contains two space separated integers, N and X.
+ 
+ Code credit - Saurabh Singh (singh.saurabh.p@gmail.com)
