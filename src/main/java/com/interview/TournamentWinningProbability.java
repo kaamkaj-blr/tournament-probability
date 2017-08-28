@@ -39,7 +39,7 @@ package com.interview;
  The first and only line contains two space separated integers, N and X.
  */
 
-public class App {
+public class TournamentWinningProbability {
 
     private static double[][] probabilities;
 
